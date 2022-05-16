@@ -1,0 +1,37 @@
+.Head{
+    margin-left: 177px;
+    color: rgb(0, 145, 212);
+}
+.loginform{
+    width: 500px;
+    height: 400px;
+    text-align: left;
+    padding-top: 0.5px;
+    padding-left: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+.email{
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+}
+.pass{
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+}
+.forgot{
+    color: rgb(0, 145, 212);
+}
+.Submit{
+    margin-left: 75px;
+    text-align: center;
+    width: 300px;
+    height: 40px;
+    font-size: x-large;
+    background-color: rgb(0, 145, 212);
+    color: white;
+    border-radius: 20px;
+    border-color: white;
+}

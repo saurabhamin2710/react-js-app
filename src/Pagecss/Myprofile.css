@@ -1,0 +1,29 @@
+.myprofile {
+  float: left;
+  height: 800px;
+  width: 100%;
+  background-color: whitesmoke;
+}
+.userinfo {
+  margin-left: 350px;
+  text-align: left;
+}
+.head {
+  background-color: rgb(14, 153, 217);
+  text-align: center;
+  height: 40px;
+  margin-right: 10px;
+  font-size: x-large;
+  border-radius: 5px;
+  color: white;
+}
+label {
+  /* border: 2px solid black; */
+  /* box-shadow: 0.5px 1px 1px 1px; */
+  padding: 5px;
+}
+.us,
+.bs {
+  margin-left: 5px;
+  /* background-color: rgb(198, 220, 230); */
+}
